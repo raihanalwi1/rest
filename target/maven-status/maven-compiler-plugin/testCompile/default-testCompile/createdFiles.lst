@@ -1,0 +1,8 @@
+runner\projects\GetAllProject.class
+runner\stepdefinitions\projects\CreateProjectStep.class
+runner\projects\CreateProject.class
+runner\section\GetAllSection.class
+runner\projects\GetAProject.class
+runner\CucumberTestSuite.class
+runner\projects\LoginProject.class
+runner\stepdefinitions\projects\UserStep.class

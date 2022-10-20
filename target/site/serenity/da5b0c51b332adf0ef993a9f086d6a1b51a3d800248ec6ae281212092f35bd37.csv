@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create Project","Create project with valid name","FAILURE","2022-10-20T16:54:51.4036265+07:00[Asia/Jakarta]","0.0","4.87"
+"Create Project","Create project with valid name, color, favorite","FAILURE","2022-10-20T16:54:56.2799182+07:00[Asia/Jakarta]","0.0","0.71"

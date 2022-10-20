@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+Test set: Get a Project
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.48 s <<< FAILURE! - in Get a Project
+Get a Project.Get a project with valid ID  Time elapsed: 0.48 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'I set url and valid token to get a project' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("I set url and valid token to get a project")
+public void i_set_url_and_valid_token_to_get_a_project() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("I get ID project")
+public void i_get_id_project() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("I request get detail project")
+public void i_request_get_detail_project() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("I get status code {int}")
+public void i_get_status_code(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

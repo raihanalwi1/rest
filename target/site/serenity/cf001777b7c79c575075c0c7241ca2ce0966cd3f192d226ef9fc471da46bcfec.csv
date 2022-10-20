@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get a Project","Get a project with valid ID","PENDING","2022-10-20T16:54:51.4935749+07:00[Asia/Jakarta]","0.0","0.05"
+"Get All Project","Get all project with invalid token","PENDING","2022-10-20T16:54:51.4735853+07:00[Asia/Jakarta]","0.0","0.07"
+"Get All Project","Get all project with valid token","PENDING","2022-10-20T16:54:51.5595303+07:00[Asia/Jakarta]","0.0","0.02"
+"Login","Login user dengan username dan password","PENDING","2022-10-20T16:54:51.276474+07:00[Asia/Jakarta]","0.0","2.77"
